@@ -5,7 +5,7 @@
 [![Lattes CNPq](https://img.shields.io/badge/Lattes-CNPq-brightgreen)](http://lattes.cnpq.br/7754813473705418)
 [![Google Acadêmico](https://img.shields.io/badge/Google-Acadêmico-red)](https://scholar.google.com.br/citations?user=NSFOPPAAAAAJ)
 
-![Arquitetura da solução](https://github.com/alissonsolitto/bittrust/blob/main/Solution%20Architecture.png)
+![Arquitetura da solução](https://github.com/alissonsolitto/bittrust/blob/master/Solution%20Architecture.png)
 
 ### Abstract:
 
