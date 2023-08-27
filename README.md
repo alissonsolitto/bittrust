@@ -9,11 +9,11 @@
 
 ### Abstract:
 
-This paper highlights alternative solutions for blockchain technology that address the principles of Information Security and apply these concepts to the registration and validation of digital documents on the Bitcoin network. This way documents can be validated and publicly visible to any user with Internet access.
+This paper highlights alternative solutions for blockchain technology that address the principles of Information Security and apply these concepts to the registration and validation of digital documents on the Bitcoin network. This way documents can be validated and publicly visible to any user with Internet access. The goal is to develop a solution that aims to abstract all the complexity of cryptographic algorithms and techniques and use them in conjunction with blockchain technology, enhancing the registration and authenticity of a digital document in a decentralized public environment. With the developed solution it is possible to register digital documents in the Bitcoin blockchain, ensuring the authenticity validation of digital files in a chronological and cryptographic manner. In this way the tool can guarantee the authenticity of files without the need for a certifying entity to guarantee its legitimacy.
 
 ### Resumo:
 
-O presente artigo destaca soluções alternativas para a tecnologia blockchain visando os princípios da Segurança da Informação e aplicando esses conceitos para o registro e validação de documentos digitais na rede do Bitcoin.
+Este artigo destaca soluções alternativas para a tecnologia blockchain que abordam os princípios da Segurança da Informação e aplicam esses conceitos ao registro e validação de documentos digitais na rede Bitcoin. Desta forma, os documentos podem ser validados e visíveis publicamente para qualquer utilizador com acesso à Internet. O objetivo é desenvolver uma solução que visa abstrair toda a complexidade dos algoritmos e técnicas criptográficas e utilizá-los em conjunto com a tecnologia blockchain, potencializando o registro e a autenticidade de um documento digital em um ambiente público descentralizado. Com a solução desenvolvida é possível cadastrar documentos digitais na blockchain do Bitcoin, garantindo a validação da autenticidade dos arquivos digitais de forma cronológica e criptográfica.
 
 ### Authors:
 
@@ -37,6 +37,11 @@ Programa de Pós-Graduação em Ciência da Computação, Universidade Estadual 
 - Information Security
 - Bitcoin
 - Digital Documents
+- Segurança da Informação
+- Descentralização
+- BitTrust
+- Hash
+- Criptografia
 
 ### How to Cite:
 
